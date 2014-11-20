@@ -1,4 +1,4 @@
-class Person
+class User
   attr_accessor :name, :age
 
   def initialize(dict)
