@@ -1,4 +1,4 @@
-class TopViewController < UIViewController
+class TopController < UIViewController
   def viewDidLoad
     super
     self.view = TopView.new
